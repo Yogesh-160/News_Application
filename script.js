@@ -1,3 +1,4 @@
+// Took the news api from the site : https://newsapi.org/
 const API_KEY = "1af7f79918fe40d181aebc76fa7f6b54";
 const url = "https://newsapi.org/v2/everything?q="
 
